@@ -281,3 +281,9 @@ dittovehicles.sh
 SF_DLL_BUILDER/ShaderForge/Properties/AssemblyInfo.cs
 SF_DLL_BUILDER/ShaderForge/ShaderForge.csproj
 SF_DLL_BUILDER/
+/Shader Forge/.vs/Shader Forge/v15/Browse.VC.db
+/Shader Forge/.vs/Shader Forge/v15/Browse.VC.opendb
+/Shader Forge/.vs/Shader Forge/v15/Server/sqlite3/db.lock
+/Shader Forge/.vs/Shader Forge/v15/Server/sqlite3/storage.ide
+/Shader Forge/.vs/Shader Forge/v15/Server/sqlite3/storage.ide-shm
+/Shader Forge/.vs/Shader Forge/v15/Server/sqlite3/storage.ide-wal
